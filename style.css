@@ -580,10 +580,12 @@ footer {
 
 .circle img {
     object-fit: cover;
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
+    width: 500px;
+    height: 450px;
+    border-radius: 20px;
     border: 2px;
+ margin-right: 150px;
+ 
 }
 .for_me {
   background-color: #151515;
@@ -591,7 +593,12 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
-
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
 }
 
 .for_me2 {
@@ -600,6 +607,12 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
 }
 
 .for_me3 {
@@ -608,6 +621,12 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
 }
 
 .for_me4 {
@@ -616,6 +635,13 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
+
 }
 
 .for_me5 {
@@ -624,6 +650,12 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
 }
 
 .for_me6 {
@@ -632,5 +664,11 @@ border-radius: 20px;
 height: 70px;
 width: 350px;
 margin-bottom: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+ background: #151515;
+    border: 2px solid #00ff66;
+    border-radius: 25px;
 
 }
